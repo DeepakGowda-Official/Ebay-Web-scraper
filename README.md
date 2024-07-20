@@ -21,3 +21,14 @@ To clone this repository to your local machine, run the following command:
 
 ```sh
 git clone https://github.com/DeepakGowda-Official/Ebay-Web-scraper.git
+
+🚀 Getting Started
+
+1. Clone the Repository: Follow the instructions above to clone the repository.
+2. Install Dependencies: Make sure you have all the necessary dependencies installed.
+3. Run the Scraper: Execute the main script to start scraping data from eBay.
+
+📬 Contact
+If you have any questions or suggestions, feel free to reach out to me at deepakgowdaofficial@gmail.com. I'm always happy to help!
+
+Happy scraping! 🥳
