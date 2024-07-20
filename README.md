@@ -15,6 +15,17 @@ The Ebay Web Scraper is designed to:
 - **Price Tracking:** Monitor price changes for specific products and snag the best deals.
 - **Data Analysis:** Collect and export data for further analysis and decision-making.
 
+##🚀 Getting Started
+
+1. Clone the Repository: Follow the instructions Below to clone the repository.
+2. Install Dependencies: Make sure you have all the necessary dependencies installed.
+3. Run the Scraper: Execute the main script to start scraping data from eBay.
+
+##📬 Contact
+If you have any questions or suggestions, feel free to reach out to me at deepakgowdaofficial@gmail.com. I'm always happy to help!
+
+Happy scraping! 🥳
+
 ## 🔧 Cloning the Repository
 
 To clone this repository to your local machine, run the following command:
@@ -22,13 +33,5 @@ To clone this repository to your local machine, run the following command:
 ```sh
 git clone https://github.com/DeepakGowda-Official/Ebay-Web-scraper.git
 
-🚀 Getting Started
 
-1. Clone the Repository: Follow the instructions above to clone the repository.
-2. Install Dependencies: Make sure you have all the necessary dependencies installed.
-3. Run the Scraper: Execute the main script to start scraping data from eBay.
 
-📬 Contact
-If you have any questions or suggestions, feel free to reach out to me at deepakgowdaofficial@gmail.com. I'm always happy to help!
-
-Happy scraping! 🥳
