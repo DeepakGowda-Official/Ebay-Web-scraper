@@ -21,9 +21,19 @@ The Ebay Web Scraper is designed to:
 2. **Install Dependencies:** Make sure you have all the necessary dependencies installed.
 3. **Run the Scraper:** Execute the main script to start scraping data from eBay.
 
+##📝 Sample Output:
+
+![image](https://github.com/user-attachments/assets/299e8f76-8428-4843-86b7-0ae44c18292f)
+
+![image](https://github.com/user-attachments/assets/a62b2910-abc2-4f45-a0fd-196a7f075f4f)
+
+
+
 ## 🔧 Cloning the Repository
 
 To clone this repository to your local machine, run the following command:
 
 ```sh
 git clone https://github.com/DeepakGowda-Official/Ebay-Web-scraper.git
+
+
