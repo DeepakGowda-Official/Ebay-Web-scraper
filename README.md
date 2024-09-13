@@ -21,7 +21,7 @@ The Ebay Web Scraper is designed to:
 2. **Install Dependencies:** Make sure you have all the necessary dependencies installed.
 3. **Run the Scraper:** Execute the main script to start scraping data from eBay.
 
-##📝 Sample Output:
+## 📝 Sample Output:
 
 ![image](https://github.com/user-attachments/assets/299e8f76-8428-4843-86b7-0ae44c18292f)
 
